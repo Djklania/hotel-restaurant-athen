@@ -18,6 +18,9 @@
   margin: 0;
   scroll-behavior: smooth;
 }
+body {
+  font-family: 'open sans', sans-serif;
+}
 
 a {
   color: unset;
